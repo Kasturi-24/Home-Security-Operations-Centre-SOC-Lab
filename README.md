@@ -127,7 +127,3 @@ The full evidence, screenshots and action plan are in the report.
 - MITRE ATT&CK, NIST SP 800-61
 
 ---
-
-## Author
-
-Senamile N Maphoso: SOC analyst (blue team) and red team operator
